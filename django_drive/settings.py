@@ -122,8 +122,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-AWS_ACCESS_KEY_ID = 'AKIAWTDAXUIUZIF7CAYG'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = 'XXXXXXXXXXXXXXXXXXX'
+AWS_SECRET_ACCESS_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 AWS_STORAGE_BUCKET_NAME = 'independencia-bucket'
 #AWS_S3_REGION_NAME = 'sa-east-1'
 #AWS_S3_ENDPOINT_URL = 'https://s3.sa-east-1.amazonaws.com'
