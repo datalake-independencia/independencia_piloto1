@@ -12,8 +12,8 @@ class Migration(migrations.Migration):
 
     operations = [
         migrations.AlterField(
-            model_name='files',
-            name='file',
+            model_name='archivos',
+            name='archivo',
             field=s3direct.fields.S3DirectField(),
         ),
     ]
